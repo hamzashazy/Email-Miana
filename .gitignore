@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+eval-results*.json
+analyze_errors.py
+test_api.py
+Email-Miana/
